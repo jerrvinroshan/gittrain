@@ -1,3 +1,9 @@
-New file text has been added
-
-Hello Jerrvin Roshan this is your working dir
+<html>
+<head>
+<title>New Project</title>
+</head>
+<body>
+<h1> Hello Friends </h1>
+<p> Some random thoughs which is type in the paragraph which writing in your exam</p>
+</body>
+</html>
